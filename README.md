@@ -1,3 +1,5 @@
+Tic Tac Toe Game
+
 By David Bembenek
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
